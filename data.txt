@@ -1,0 +1,46 @@
+ai|Artificial Intelligence (AI) is the simulation of human intelligence by machines. It involves creating systems that can perform tasks that typically require human intelligence, such as understanding natural language, recognizing patterns, solving problems, and learning from experience. AI is transforming industries like healthcare, finance, transportation, and education, paving the way for a more automated and intelligent future.
+
+who create you|I was created by Jasim, an AI developer and freelancer, who studies Computer Science at UET Mardan. He built me using the C programming language as part of his passion for AI development.
+
+What is your name|I am a Simple AI Chatbot built in C language.
+
+jasim|Jasim is an AI developer and freelancer. He studies Computer Science at UET Mardan (C section) and belongs to Kurram Agency. Jasim is passionate about AI and spends his free time learning more about artificial intelligence and how it can solve real-world problems.
+
+faiza|Faiza is Jasim's teacher in C programming. She is a professor at UET Mardan and is known for her deep knowledge of C programming. She has played a crucial role in teaching programming concepts and helping students build a strong foundation in coding.
+manahil|manahil is a student at UET Mardan, studying Computer Science. She comes from Mardan and is part of Jasim's class. She is not  focused on her studies.she is not series
+
+hoorya|Hoorya is a fellow student at UET Mardan, also studying Computer Science. She is dedicated to her studies and part of the same department as Jasim.
+
+
+
+uet mardan|UET Mardan (University of Engineering and Technology, Mardan) is a renowned university in Pakistan. It is known for its strong programs in engineering and computer science, producing talented graduates who excel in technology and innovation.
+
+uet mardan location|UET Mardan is located in the city of Mardan, Khyber Pakhtunkhwa, Pakistan. It is one of the top institutions for higher education in the region.
+
+what is c language|C is a powerful, general-purpose programming language that was developed in the 1970s by Dennis Ritchie. It is widely used for system programming, game development, and embedded systems. It is the foundation of many other programming languages like C++, Java, and Python. Key features of C include pointers, arrays, loops, and functions.
+
+pointer|Pointers are variables in C that store the memory address of another variable. They are a powerful feature that allows for dynamic memory allocation, manipulation of arrays, and passing functions by reference. Syntax: `int *ptr;` declares a pointer to an integer.
+
+array|Arrays in C are used to store multiple values of the same data type in contiguous memory locations. They allow efficient data manipulation. Example: `int arr[5] = {1, 2, 3, 4, 5};` creates an array of size 5.
+
+function|Functions in C are reusable blocks of code that perform a specific task. They help in modular programming, improving code readability and reusability. Example: `int add(int a, int b) { return a + b; }` defines a function to add two numbers.
+
+loops|Loops in C allow the execution of a block of code multiple times. There are three main types: `for`, `while`, and `do-while` loops. Example:
+`for (int i = 0; i < 5; i++) { printf("%d ", i); }` prints numbers from 0 to 4.
+
+data type|C has several basic data types:
+1. `int` - for integers (e.g., 1, 2, -3)
+2. `float` - for floating-point numbers (e.g., 3.14)
+3. `char` - for characters (e.g., 'a')
+4. `double` - for double-precision floating-point numbers
+5. `void` - for functions that return no value.
+
+variable |C has three types of variables:
+1. **Local variables**: Declared inside functions and accessible only within that scope.
+2. **Global variables**: Declared outside functions and accessible throughout the program.
+3. **Static variables**: Retain their value between function calls.
+
+ai future|The future of AI is incredibly promising. AI is set to revolutionize industries through automation, data analysis, and decision-making. Fields like healthcare, finance, transportation, and education will benefit from AI-powered systems. AI will lead to advancements in self-driving cars, personalized medicine, virtual assistants, and more. However, ethical challenges like job displacement, bias in AI models, and privacy concerns must be addressed as AI evolves.
+
+What is the role of AI in education?|AI plays a significant role in education by personalizing learning experiences, automating administrative tasks, and providing intelligent tutoring systems. AI-powered tools help teachers analyze student performance and tailor lesson plans to meet individual needs, making learning more effective and engaging.
+saeed anwer|saeed anwer is seo of maktek.ai
